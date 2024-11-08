@@ -1,1 +1,1 @@
-# first-half
+First half of the project
